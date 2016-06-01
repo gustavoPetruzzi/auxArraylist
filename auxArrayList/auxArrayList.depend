@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1464723082 source:e:\tp4\auxarraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"ArrayList.h"
+
+1464726420 source:e:\tp4\auxarraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1464717266 e:\tp4\auxarraylist\arraylist.h
+
+1464719846 source:e:\tp4\auxarraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"input.h"
+	<string.h>
+
+1464717524 e:\tp4\auxarraylist\employee.h
+	"ArrayList.h"
+
+1463981758 e:\tp4\auxarraylist\input.h
+
+1464409814 source:e:\tp4\auxarraylist\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1464623454 source:e:\tp4\auxarraylist\systemclean.c
+	<stdio.h>
+	<stdlib.h>
+
+1464757660 source:f:\tp4\auxarraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"input.h"
+	<string.h>
+
+1463521274 f:\tp4\auxarraylist\arraylist.h
+
+1464717524 f:\tp4\auxarraylist\employee.h
+	"ArrayList.h"
+
+1463981758 f:\tp4\auxarraylist\input.h
+
+1464409814 source:f:\tp4\auxarraylist\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1464758284 source:f:\tp4\auxarraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"ArrayList.h"
+
+1464623454 source:f:\tp4\auxarraylist\systemclean.c
+	<stdio.h>
+	<stdlib.h>
+
+1464758270 source:f:\tp4\auxarraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
