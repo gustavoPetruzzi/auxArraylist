@@ -49,7 +49,7 @@ void printArrayListEmployee(ArrayList* lista)
     int i;
     Employee* aux;
 
-      if (lista!=NULL)
+      if (lista!=NULL && lista->size >0)
       {
           for (i=0;i< lista->len(lista);i++)
           {
